@@ -6,3 +6,6 @@ tenhle repositar je prazdny a obsahuje:
 - nulu
 - NULL
 - NUla
+
+- ## Druhý pokus
+- 
